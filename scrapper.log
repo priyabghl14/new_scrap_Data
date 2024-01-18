@@ -1,0 +1,601 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 09:43:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 09:44:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 09:44:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:06:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:06:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:08:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:08:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:14:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:14:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:16:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:16:30] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:16:30] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:16:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:16:38] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:16:38] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:19:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:19:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:19:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:20:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:24:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:24:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:24:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:24:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:24:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:27:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:27:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:27:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:27:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:27:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:27:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:27:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:38] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:32:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:33:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:33:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:33:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:34:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:35:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:35:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:35:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:35:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:35:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:36:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:37:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:37:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:37:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:38:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:39:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:39:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:39:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:39:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:41:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:41:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:41:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:41:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:41:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:41:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:41:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:42:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:42:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:42:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:43:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:43:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:43:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:43:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:44:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:44:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:44:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:45:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:45:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:45:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:45:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:46:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:46:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:47:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:49:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:49:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:49:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:49:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:50:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:50:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:38] "POST /review HTTP/1.1" 200 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:51:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:52:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:53:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:53:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:53:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:54:04] "POST /review HTTP/1.1" 200 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:24] "POST /review HTTP/1.1" 200 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:992)>
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:56:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:57:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:23] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:23] "GET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:23] "GET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:23] "GET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:58:23] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:02] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:02] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:02] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:02] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:02] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:22] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:22] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:22] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:22] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:22] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:34] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:34] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:34] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 10:59:34] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:01:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:01:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:01:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:01:24] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:01:24] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:01:24] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:01:24] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:02:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:03:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:04:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:04:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:04:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:04:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:05:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:05:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:05:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:05:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:06:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:06:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:06:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'tv', 'Name': 'Mamata  Kundu', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Valo khub valo aj prothom din 10din por abar review debo. Thankyou Flipkart'}, {'Product': 'tv', 'Name': 'Nilesh Tayshete', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Everything is very nice..Do not blame tv software for slowness of apps rather upgrade ur internet speed.'}, {'Product': 'tv', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Good \U0001f44d\U0001f44d\U0001f44d'}, {'Product': 'tv', 'Name': 'Manoj Sondkar', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Awesome product buy it now \U0001f604 hd quality'}, {'Product': 'tv', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Very poor', 'Comment': 'Only 2 month use and black dott in screen very low quality'}, {'Product': 'tv', 'Name': 'Jagajeevan Reddy', 'Rating': '1', 'CommentHead': 'Hated it!', 'Comment': 'Display picture is worst \U0001f62d'}, {'Product': 'tv', 'Name': 'Kartik Mehta', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Current Market Best TV.Overall a good product.'}, {'Product': 'tv', 'Name': 'LALITA PANDHARE', 'Rating': '1', 'CommentHead': 'Worthless', 'Comment': "I have received the internaly damaged product and plz dont shop the product for Xiaomi his Doesn't values of customer no any support Flipkart coustomer care and Xiaomi service center plz don't purchase the product"}, {'Product': 'tv', 'Name': 'Rithik  Jaiswal ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Everything is fine like audio and video quality but they need to improve their software coz sometimes it lags.'}, {'Product': 'tv', 'Name': 'Satish Utekar', 'Rating': '1', 'CommentHead': "Don't waste your money", 'Comment': "Not worth. The picture quality is very poor, the picture shows like an illustration, not sharpening images, saturated colors dull color pictures. While installing the jeeves person is forcing me to purchase jeeves 3years guarantee which is 3rd party, that time i don't know about that , he is just forcing me lelo lelo just like selling or marketing door to door and showing a bad attitude towards me , also asking me for otp for satisfaction. Terrible delivery."}, {'Product': 'tv', 'Name': 'Satish Utekar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Not worth. The picture quality is very poor, the picture shows like an illustration, not sharpening images, saturated colors dull color pictures. While installing the jeeves person is forcing me to purchase jeeves 3years guarantee which is 3rd party, that time i don't know about that , he is just forcing me lelo lelo just like selling or marketing door to door and showing a bad attitude towards me , also asking me for otp for satisfaction. Terrible delivery."}]
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:06:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:06:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 11:06:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'tv', 'Name': 'Sanat Mishra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am giving here review after a month. I will mention the pros first.1. The picture quality is outstanding. Samsung has done a tremendous work on that. Because of the VA panel you will get the stunning natural picture quality. Also you will get the picture quality settings where you can adjust the brightness, contrast and sharpness according to your needs. 2. With the 20W speaker the sound quality is awesome. You will also have the choice of adjusting the sound to different modes like sta...'}, {'Product': 'tv', 'Name': 'Samir Khata', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Very good HD picture quality  of this TV and timely delivery and installation is very systematic process. Thanks for Flipkart & Samsung team related this item.'}, {'Product': 'tv', 'Name': 'Rahul Mandal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice TV in this price'}, {'Product': 'tv', 'Name': 'tanmoy roy', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Good\U0001f44d'}, {'Product': 'tv', 'Name': 'Sudhaditta Mitra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Absolutely value for money.'}, {'Product': 'tv', 'Name': 'Soumen Gope', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good quality at this price. Picture quality is very good. Sound quality is also very good.'}, {'Product': 'tv', 'Name': 'M D Zubair ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'tv', 'Name': 'kesavaraman', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product from samsung'}, {'Product': 'tv', 'Name': 'Shital KUMAR', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome \U0001f44d'}, {'Product': 'tv', 'Name': 'Velu P', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}, {'Product': 'tv', 'Name': 'Velu P', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}]
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:35:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:57:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:57:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:57:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 09:57:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:00:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:00:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:00:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'tv', 'Name': 'Sanat Mishra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am giving here review after a month. I will mention the pros first.1. The picture quality is outstanding. Samsung has done a tremendous work on that. Because of the VA panel you will get the stunning natural picture quality. Also you will get the picture quality settings where you can adjust the brightness, contrast and sharpness according to your needs. 2. With the 20W speaker the sound quality is awesome. You will also have the choice of adjusting the sound to different modes like sta...'}, {'Product': 'tv', 'Name': 'Samir Khata', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Very good HD picture quality  of this TV and timely delivery and installation is very systematic process. Thanks for Flipkart & Samsung team related this item.'}, {'Product': 'tv', 'Name': 'Rahul Mandal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice TV in this price'}, {'Product': 'tv', 'Name': 'tanmoy roy', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Good\U0001f44d'}, {'Product': 'tv', 'Name': 'Sudhaditta Mitra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Absolutely value for money.'}, {'Product': 'tv', 'Name': 'Soumen Gope', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good quality at this price. Picture quality is very good. Sound quality is also very good.'}, {'Product': 'tv', 'Name': 'M D Zubair ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'tv', 'Name': 'kesavaraman', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product from samsung'}, {'Product': 'tv', 'Name': 'Shital KUMAR', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome \U0001f44d'}, {'Product': 'tv', 'Name': 'Velu P', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}, {'Product': 'tv', 'Name': 'Velu P', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}]
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:00:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:00:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:00:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\1234\\Desktop\\python_Program\\flask_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-675-309
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:01:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:01:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:01:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'tv', 'Name': 'Sanat Mishra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am giving here review after a month. I will mention the pros first.1. The picture quality is outstanding. Samsung has done a tremendous work on that. Because of the VA panel you will get the stunning natural picture quality. Also you will get the picture quality settings where you can adjust the brightness, contrast and sharpness according to your needs. 2. With the 20W speaker the sound quality is awesome. You will also have the choice of adjusting the sound to different modes like sta...'}, {'Product': 'tv', 'Name': 'Samir Khata', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Very good HD picture quality  of this TV and timely delivery and installation is very systematic process. Thanks for Flipkart & Samsung team related this item.'}, {'Product': 'tv', 'Name': 'Rahul Mandal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice TV in this price'}, {'Product': 'tv', 'Name': 'tanmoy roy', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Good\U0001f44d'}, {'Product': 'tv', 'Name': 'Sudhaditta Mitra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Absolutely value for money.'}, {'Product': 'tv', 'Name': 'Soumen Gope', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good quality at this price. Picture quality is very good. Sound quality is also very good.'}, {'Product': 'tv', 'Name': 'M D Zubair ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'tv', 'Name': 'kesavaraman', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product from samsung'}, {'Product': 'tv', 'Name': 'Shital KUMAR', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Awesome \U0001f44d'}, {'Product': 'tv', 'Name': 'Velu P', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}, {'Product': 'tv', 'Name': 'Velu P', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}]
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:01:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:01:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 10:01:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
