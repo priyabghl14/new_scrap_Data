@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request,jsonify
-# from flask_cors import CORS,cross_origin
+# ### from flask_cors import CORS,cross_origin
 import requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen as uReq
@@ -11,9 +11,9 @@ logging.basicConfig(filename="scrapper.log" , level=logging.INFO)
 
 app = Flask(__name__)
 
-@app.route("/home")
-def hell_world():
-    return "<p>This is my first flask project .. !</p>"
+# @app.route("/home")
+# def hell_world():
+#     return "<p>This is my first flask project .. !</p>"
 
 @app.route("/", methods = ['GET'])
 def homepage():
